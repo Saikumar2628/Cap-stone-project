@@ -1,2 +1,1 @@
-# Cap-stone-project
-Automated Business Intelligence Dashboard
+# Automated Business Intelligence Dashboard
